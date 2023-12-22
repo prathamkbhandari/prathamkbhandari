@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 
 <hr/>
 
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github)](https://skillicons.dev)
+
+<hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamkbhandari&theme=vue)
