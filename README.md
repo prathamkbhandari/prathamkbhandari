@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <hr/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamkbhandari&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamkbhandari&theme=github_dark)
